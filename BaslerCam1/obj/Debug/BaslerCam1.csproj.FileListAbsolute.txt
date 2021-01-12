@@ -1,0 +1,13 @@
+C:\Users\DEMO1\source\repos\BaslerCam1\BaslerCam1\bin\Debug\BaslerCam1.exe.config
+C:\Users\DEMO1\source\repos\BaslerCam1\BaslerCam1\bin\Debug\BaslerCam1.exe
+C:\Users\DEMO1\source\repos\BaslerCam1\BaslerCam1\bin\Debug\BaslerCam1.pdb
+C:\Users\DEMO1\source\repos\BaslerCam1\BaslerCam1\bin\Debug\Basler.Pylon.dll
+C:\Users\DEMO1\source\repos\BaslerCam1\BaslerCam1\bin\Debug\Basler.Pylon.xml
+C:\Users\DEMO1\source\repos\BaslerCam1\BaslerCam1\obj\Debug\BaslerCam1.csprojAssemblyReference.cache
+C:\Users\DEMO1\source\repos\BaslerCam1\BaslerCam1\obj\Debug\BaslerCam1.MainForm.resources
+C:\Users\DEMO1\source\repos\BaslerCam1\BaslerCam1\obj\Debug\BaslerCam1.Properties.Resources.resources
+C:\Users\DEMO1\source\repos\BaslerCam1\BaslerCam1\obj\Debug\BaslerCam1.csproj.GenerateResource.cache
+C:\Users\DEMO1\source\repos\BaslerCam1\BaslerCam1\obj\Debug\BaslerCam1.csproj.CoreCompileInputs.cache
+C:\Users\DEMO1\source\repos\BaslerCam1\BaslerCam1\obj\Debug\BaslerCam1.csproj.CopyComplete
+C:\Users\DEMO1\source\repos\BaslerCam1\BaslerCam1\obj\Debug\BaslerCam1.exe
+C:\Users\DEMO1\source\repos\BaslerCam1\BaslerCam1\obj\Debug\BaslerCam1.pdb
